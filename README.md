@@ -1,7 +1,5 @@
 # Телеграм бот для интернет магазина
 
-
-git clone https://github.com/AndreyZarn/final_work.git
 ## Установка
 
 ### Windows
