@@ -22,7 +22,9 @@
 
 ## Запуск
 ### Windows
+    cd final_work/
     python bot.py
 
 ### Linux/Mac
+    cd final_work/
     python3 bot.py
